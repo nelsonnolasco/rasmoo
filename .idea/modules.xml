@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/banco-rasmoo/banco-rasmoo.iml" filepath="$PROJECT_DIR$/banco-rasmoo/banco-rasmoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/banco-rasmoo-encapsulamento/banco-rasmoo-encapsulamento.iml" filepath="$PROJECT_DIR$/banco-rasmoo-encapsulamento/banco-rasmoo-encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/banco-rasmoo-heranca/banco-rasmoo-heranca.iml" filepath="$PROJECT_DIR$/banco-rasmoo-heranca/banco-rasmoo-heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conhecendo-a-linguagem/conhecendo-a-linguagem.iml" filepath="$PROJECT_DIR$/conhecendo-a-linguagem/conhecendo-a-linguagem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemplo-interface/exemplo-interface.iml" filepath="$PROJECT_DIR$/exemplo-interface/exemplo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-conjunto-dados/java-conjunto-dados.iml" filepath="$PROJECT_DIR$/java-conjunto-dados/java-conjunto-dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-exceptions/java-exceptions.iml" filepath="$PROJECT_DIR$/java-exceptions/java-exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rasmoo.iml" filepath="$PROJECT_DIR$/.idea/rasmoo.iml" />
+    </modules>
+  </component>
+</project>
