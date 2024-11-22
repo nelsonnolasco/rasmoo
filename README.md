@@ -5,4 +5,4 @@ https://cursos.rasmoo.com/
 
 ## Minhas observações sobre o Curso Rasmoo.
 Curso muito bem planejado com ótima didática e muitas horas em Orientação a Objetos em Java.
-Valeu muito e toda a equipe Rasmoo está de parabens pelo curso apresentado.
+Valeu muito e toda a equipe Rasmoo está de parabéns pelo curso apresentado.
